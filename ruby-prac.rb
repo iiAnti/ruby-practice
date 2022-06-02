@@ -22,7 +22,6 @@ my_adj3 = gets.chomp
 
 
 p "if you go to the bar and #{my_verb} you will get hit. I once 
-<<<<<<< HEAD
 #{my_noun} did something like that. If anyone #{my_adj} then I will love you forever. There is alos this girl who is so #{my_adj2} and every time she #{my_verb2} I vant stop #{my_verb3}ing. Is that a little #{my_noun2}? can you describe what a #{my_adj3} is? "
 
 # method for a dog age to be old enough to walk
@@ -40,8 +39,3 @@ def dog age
 end
 
 p dog dog_age
-=======
-#{my_noun} did something like that. If anyone #{my_adj} then I will love you forever. 
-There is alos this girl who is so #{my_adj2} and every time she #{my_verb2} I vant stop #{my_verb3}ing.
-Is that a little #{my_noun2}? can you describe what a #{my_adj3} is? "
->>>>>>> aab2128fc2539bdcd772cb73aababd56ace65922
